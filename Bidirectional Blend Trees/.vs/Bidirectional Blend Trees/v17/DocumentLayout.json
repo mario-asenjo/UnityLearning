@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140A381E-5882-0AD6-E81D-D9230C7B13AC}|Assembly-CSharp.csproj|c:\\users\\masen\\documents\\github\\unitylearning\\bidirectional blend trees\\assets\\twodimensionalstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A381E-5882-0AD6-E81D-D9230C7B13AC}|Assembly-CSharp.csproj|solutionrelative:assets\\twodimensionalstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A381E-5882-0AD6-E81D-D9230C7B13AC}|Assembly-CSharp.csproj|C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\Assets\\animationStateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A381E-5882-0AD6-E81D-D9230C7B13AC}|Assembly-CSharp.csproj|solutionrelative:Assets\\animationStateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "twoDimensionalStateController.cs",
+              "DocumentMoniker": "C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\Assets\\twoDimensionalStateController.cs",
+              "RelativeDocumentMoniker": "Assets\\twoDimensionalStateController.cs",
+              "ToolTip": "C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\Assets\\twoDimensionalStateController.cs",
+              "RelativeToolTip": "Assets\\twoDimensionalStateController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:41:30.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animationStateController.cs",
+              "DocumentMoniker": "C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\Assets\\animationStateController.cs",
+              "RelativeDocumentMoniker": "Assets\\animationStateController.cs",
+              "ToolTip": "C:\\Users\\masen\\Documents\\GitHub\\UnityLearning\\Bidirectional Blend Trees\\Assets\\animationStateController.cs",
+              "RelativeToolTip": "Assets\\animationStateController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:24:54.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
